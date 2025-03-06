@@ -1,0 +1,15 @@
+{
+  "name": "qa",
+  "version": "1.0.0",
+  "description": "### **📌 Overview** Welcome to the **QA Challenge**! Your objective is to evaluate a simple **To-Do application (AUT)** by performing various **QA tasks** using your preferred test automation tool (**Playwright, Cypress, or Selenium**).",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.9",
+    "http-server": "^14.1.1"
+  }
+}
