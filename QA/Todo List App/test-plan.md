@@ -22,9 +22,10 @@
    - Verify that the name of random item is same as added
    
 ## Test Data
-- Sample task: "Buy a pen"
+- Using helper created Dynamic Data for to do
 
 ## Tools
 - Playwright for test automation
 - Page Object Model (POM) for maintainability
 - Dynamic data for scalability
+- CI/CD tool integration (Github Actions)
