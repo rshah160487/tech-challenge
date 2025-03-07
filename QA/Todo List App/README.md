@@ -32,7 +32,7 @@ Installation
 
 - Clone the repository:
 
-git clone https://github.com/your-username/todo-list-app-automation.git
+git clone https://github.com/rshah160487/tech-challenge.git
 
 cd todo-list-app-automation
 
