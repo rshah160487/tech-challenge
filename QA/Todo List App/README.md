@@ -115,8 +115,6 @@ http-server for serving the app locally.
 📧 Contact
 For questions or feedback, please contact:
 
-Your Name
-
+Name: Rohan Shah
 Email: rshah160487@gmail.com
-
 GitHub: https://github.com/rshah160487?tab=repositories

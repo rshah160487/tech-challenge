@@ -7,8 +7,3 @@ node_modules/
 /playwright/.cache/
 /reports/test-results
 /.DS_Store
-/data-engineering
-/full-stack
-/UI
-/UX
-/UX-UI
